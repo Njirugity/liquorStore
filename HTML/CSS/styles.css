@@ -1,0 +1,160 @@
+h1{
+    text-align: center;
+    color:  white;
+    margin-bottom: 50px;
+    
+    margin: auto;
+    font-family: 'Lobster', cursive;
+   
+}
+.dashBoard{
+    width: 100%;
+    height: 250px;
+    background-color: blue;
+    position: relative;
+    margin-bottom: 50px;
+    
+}
+.logo{
+    width: 5%;
+    height: 75px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    
+}
+.dealOfTheDay{
+    width: 100%;
+    height: 300px;
+    background-color: blue;
+    position: relative;
+    margin-bottom: 50px;
+}
+.boxOne{
+    width: 20%;
+    height: 200px;
+    background-color: red;
+    position: absolute;
+    left: 300px;
+}
+.boxTwo{
+    width: 20%;
+    height: 200px;
+    background-color: yellow;
+    position: absolute;
+    left: 620px;
+}
+.boxThree{
+    width: 20%;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+    left: 940px;
+}
+.popular{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    position: relative;
+    margin-bottom: 50px;
+}
+.ppA{
+    width:10%;
+    height: 110px;
+    background-color: red;
+    position: absolute;
+    left: 125px;
+}
+.ppB{
+    width:10%;
+    height: 110px;
+    background-color: green;
+    position: absolute;
+    left: 300px;
+}
+.ppC{
+    width:10%;
+    height: 110px;
+    background-color: white;
+    position: absolute;
+    left: 475px;
+}
+.ppD{
+    width:10%;
+    height: 110px;
+    background-color: yellow;
+    position: absolute;
+    left: 650px;
+}
+.ppE{
+    width:10%;
+    height: 110px;
+    background-color: orange;
+    position: absolute;
+    left: 825px;
+    
+}
+.ppF{
+    width:10%;
+    height: 110px;
+    background-color: purple;
+    position: absolute;
+    left: 1000px;
+}
+.ppG{
+    width:10%;
+    height: 110px;
+    background-color: orange;
+    position: absolute;
+    left: 1175px;
+    
+}
+
+.barTenders{
+    width: 100%;
+    height: 150px;
+    background-color: blue;
+    position: relative;
+    margin-bottom: 50px;
+}
+.btA{
+    width:10%;
+    height: 110px;
+    background-color: red;
+    position: absolute;
+    left: 250px;
+}
+.btB{
+    width:10%;
+    height: 110px;
+    background-color: green;
+    position: absolute;
+    left: 425px;
+}
+.btC{
+    width:10%;
+    height: 110px;
+    background-color: white;
+    position: absolute;
+    left: 600px;
+}
+.btD{
+    width:10%;
+    height: 110px;
+    background-color: yellow;
+    position: absolute;
+    left: 775px;
+}
+.btE{
+    width:10%;
+    height: 110px;
+    background-color: orange;
+    position: absolute;
+    left: 950px;
+}
+.contact{
+    width: 100%;
+    height: 150px;
+    background-color: black;
+    position: relative;
+    color: white;
+}
